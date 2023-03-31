@@ -1,0 +1,39 @@
+{
+  "produtos": [
+    {
+      "name": "Produto 1",
+      "image": "https://images.jota.info/wp-content/uploads/2022/11/emilio-garcia-awdcgddedh0-unsplash-1024x598.jpg",
+      "description": "Descrição do serviço",
+      "price": 100,
+      "id": 1
+    },
+    {
+      "name": "Produto 2",
+      "image": "https://thumbs.dreamstime.com/b/estrada-cedo-na-manh%C3%A3-40750108.jpg",
+      "description": "Descrição do serviço 2",
+      "price": 1000000,
+      "id": 2
+    },
+    {
+      "name": "Produto 3",
+      "image": "https://static.vecteezy.com/ti/fotos-gratis/t2/17094923-imagem-de-um-nascer-do-sol-colorido-e-de-alto-contraste-com-formacoes-de-nuvens-brilhantes-ao-longo-de-uma-avenida-foto.jpg",
+      "description": "Descrição do serviço 3",
+      "price": 2000,
+      "id": 3
+    },
+    {
+      "name": "Produto 4",
+      "description": "Descrição do serviço 3",
+      "price": 3000,
+      "image": "http://spoilers.tv.br/wp-content/uploads/2020/03/AdobeStock_256229414.jpg",
+      "id": 4
+    },
+    {
+      "name": "Produto 5",
+      "image": "https://lokalise.com/blog/wp-content/webp-express/webp-images/doc-root/wp-content/uploads/2020/08/numbereng.png.webp",
+      "description": "Descrição do serviço 5",
+      "price": 50000,
+      "id": 5
+    }
+  ]
+}

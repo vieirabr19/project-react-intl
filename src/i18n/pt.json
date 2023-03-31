@@ -1,0 +1,13 @@
+{
+  "menu.list": "Lista",
+  "menu.new": "Novo",
+  "form.title": "Novo produto",
+  "form.name": "Nome",
+  "form.image": "Imagem",
+  "form.description": "Descrição",
+  "form.price": "Preço",
+  "form.createProduct": "Criar produto",
+  "listProduct.title": "Lista de produtos",
+  "listProduct.cardName": "{name}",
+  "listProduct.cardPrice": ""
+}
